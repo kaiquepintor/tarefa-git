@@ -1,2 +1,3 @@
 nome: Kaique PIntor Santos
 cidade natal: São Bernardo do Campo
+uf: SP
